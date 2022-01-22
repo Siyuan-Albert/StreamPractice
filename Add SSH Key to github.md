@@ -4,6 +4,7 @@ Add SSH Key to github
    `ssh-keygen -t rsa`
 
 2. copy the ssh key
+
    `pbcopy < ~/.ssh/id_rsa.pub`
 
    Or
